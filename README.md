@@ -1,5 +1,5 @@
 
- # To See the result 
+ # To see the result 
  
 http://mu-advanced-css.surge.sh/
  
