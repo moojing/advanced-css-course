@@ -1,7 +1,7 @@
 
  # To see the result 
  
-http://mu-advanced-css.surge.sh/
+http://advanced-css-mu.surge.sh
  
  - Write CSS with BEM concept into the project.(Block-Element-Modifier)
  - Make custom css grid system
